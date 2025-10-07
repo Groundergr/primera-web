@@ -1,0 +1,19 @@
+PRIMER SITIO  WEB:
+*carpetas: img, video
+*páginas html: Inicio, nosotros, servicios, galería, podcast, blog, contacto
+*Cada página con header, main y footer
+*menú de navegación en todas las páginas y que todas enlacen entre sí.
+
+*INICIO: una foto e información con tres párrafos
+*NOSOTROS: párrafo y debajo vídeo en bucle y que se cargue solo.
+*SERVICIOS: lista desordenada con 5 fotos pequeñas de cada servicio y debajo de cada una un párrafo
+*GALERÍA: párrafo y debajo Tabla de 3x3 con fotos(sin bordes)
+*PODCAST: página con 5 audios y cada un con un párrafo explicativo.
+*BLOG:  con 5 artículos (título, foto y párrafo), separados los artículos por línea
+*CONTACTO: lista desordenada con datos contacto y redes sociales de la empresa y mapa.
+
+Utilizar Etiquetas y elementos:
+Semánticas
+Texto
+Formato
+Multimedia.
